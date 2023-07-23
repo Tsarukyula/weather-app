@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #d3eff5;
+    font-family: 'Roboto', sans-serif;
+    background-image: url('./istockphoto-1328689113-612x612.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+  h1 {
+    color: #020113;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.weather-data p {
+    margin: 0 auto;
+    margin-bottom: 15px;
+    border: 0.5px solid #ccc;
+    padding: 20px;
+    box-shadow: 1px 1px 6px 1px #4B98BC;
+    border-radius: 10px 10px 10px 10px;
+    border: 4px solid #3C89DE;
+    text-decoration: wavy;
+    
+}
